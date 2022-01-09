@@ -45,7 +45,7 @@ data, and program R is beneficial.
 ### Course Materials
 
 All course materials will be distributed via email or in the course
-repository on Github: <https://github.com/stevemidway/DAR-2021>
+repository on Github: <https://github.com/stevemidway/DAR-2022>
 
 Lecture notes and materials will not be posted in the same form as presented in class; however, the companion book for the course will have reference information for nearly all of the lectures and materials can be added upon request. Access the companion text here:  <https://bookdown.org/steve_midway/DAR/>
 
@@ -246,12 +246,3 @@ capacity.
 | W Apr 14 |                                            |
 | M Apr 19 | Reproducible Research                      |
 | W Apr 21 | Infographics (Open House?)                 |
-
-
-#### Recordings 
-
-1. [24 February 2021: Estimation and Linear Modeling](https://lsu.zoom.us/rec/play/03tUmoZTjXDmliXz20ktvzDLXf-gVrIkOqFy22ctKfl9vZBrhNJJTtvfc4OEXoi1buElN34b9Ydpe00U.eK5mjoMPQFrpqZQr?continueMode=true)
-
-2. [Supplemental Instruction on General Linear Models](https://lsu.zoom.us/rec/share/7VuPks3CXfeY6jBbQsdfbZBEhymR19K1c3FGBnLR81u7aClqiBHcP3yF_ENrPLZJ.gyJ6UJ2dwSXQDBh7)
-
-3. [5 April 2021: Infographics](https://lsu.zoom.us/rec/play/jarTrJ4sREniXS2jcoV2Gr07VWnQX8w9B9aNecoV8WcLZJU4x5j46l_3k36eUBSn8y7Hp3tO1zROh-eJ.gmFZ9mlyeYWfuJqo?continueMode=true&_x_zm_rtaid=fhVc7o8lSOSiQRYkOCW1FA.1617712001902.99d468fed5c300660188bad2fa06c8ac&_x_zm_rhtaid=633)
