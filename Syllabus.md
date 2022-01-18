@@ -216,33 +216,44 @@ capacity.
 
 | Date     | Topic                                      |
 | :------- | :----------------------------------------- |
-| M Jan 11 | Course Introduction                        |
-| W Jan 13 | Logic of Science                           |  
-| M Jan 18 | No Class (MLK Jr. Day)                     |
-| W Jan 20 | Overview of R, Part I                      |
-| M Jan 25 | Overview of R, Part II                     |
-| W Jan 27 | Principles of Data                         |
-| M Feb 1  | Databases and DMPs (Guest)                 |
-| W Feb 3  | Github and Markdown                        |
-| M Feb 8  | Exploratory Data Analysis                  |
-| W Feb 10 | Basics of ggplot                           |
-| M Feb 15 | No Class (Weather)                         |
-| W Feb 17 | No Class (Weather)                         |
-| M Feb 22 | Models vs. Estimation                      |
-| W Feb 24 | Anatomy of a Linear Model                  |
-| M Mar 1  | General Linear Models                      |
-| W Mar 3  | General Linear Models (con't)              |
+| W Jan 19 | Course Introduction                        |
+| M Jan 24 | Logic of Science                           |  
+| W Jan 26 | Overview of R, Part I                      |
+| M Jan 31 | Overview of R, Part II                     |
+| W Feb 2  | Principles of Data                         |
+| M Feb 7  | Databases and DMPs (Guest)                 |
+| W Feb 9  | Github and Markdown                        |
+| M Feb 14 | Off (Midway at Conference)                 |
+| W Feb 16 | Exploratory Data Analysis                  |
+| M Feb 21 | Basics of `ggplot`                         |
+| W Feb 23 | Models vs. Estimation                      |
+| M Feb 28 | Off (Mardi Gras)                           |
+| W Mar 2  | Off (Mardi Gras)                           |
+| M Mar 7  | Anatomy of a Linear Model                  |
+| W Mar 9  | General Linear Models                      |
 | M Mar 8  | GLMs, Part I                               |
 | W Mar 10 | GLMs, Part II                              |
-| M Mar 15 | Random Effects and Mixed Models, Part I    |
-| W Mar 17 | Random Effects and Mixed Models, Part II   |
-| M Mar 22 | Model Selection                            |
-| W Mar 24 | Model Selection (con't)                    |
-| M Mar 29 | Visualization, Part I                      |
-| W Mar 31 | Visualization, Part II                     |
-| M Apr 5  | Infographics (Zoom)                        |
-| W Apr 7  | Mapping and Spatial Data (Guest + Zoom)    |
-| M Apr 12 | Team Science                               |
-| W Apr 14 |                                            |
-| M Apr 19 | Reproducible Research                      |
-| W Apr 21 | Infographics (Open House?)                 |
+| M Mar 14 | Off (Spring Break)                         |
+| W Mar 16 | Off (Spring Break)                         |
+| M Mar 21 | Random Effects and Mixed Models, Part I    |
+| W Mar 23 | Random Effects and Mixed Models, Part II   |
+| M Mar 28 | Model Selection                            |
+| W Mar 30 | Off (Midway hosting Conference)            |
+| M Apr 4  | Model Selection (con't)                    |
+| W Apr 6  | Visualization, Part I                      |
+| M Apr 11 | Visualization, Part II                     |
+| W Apr 13 | Infographics                               |
+| M Apr 18 | Mapping and Spatial Data (Guest + Zoom?)   |
+| W Apr 20 | Team Science                               |
+| M Apr 25 | Reproducible Research                      |
+| W Apr 27 | Infographics (Open House?)                 |
+| M May 2  | Flex                                       |
+| W May 4  | Flex                                       |
+ 
+
+
+
+
+
+
+
