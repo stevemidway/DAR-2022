@@ -249,11 +249,5 @@ capacity.
 | W Apr 27 | Infographics (Open House?)                 |
 | M May 2  | Flex                                       |
 | W May 4  | Flex                                       |
- 
-
-
-
-
-
 
 
