@@ -214,40 +214,40 @@ modifications to the topics as the course materials develop, and we will
 devote varying amounts of time to each topic, based on interest and
 capacity.
 
-| Date     | Topic                                      |
-| :------- | :----------------------------------------- |
-| W Jan 19 | Course Introduction                        |
-| M Jan 24 | Logic of Science                           |  
-| W Jan 26 | Overview of R, Part I                      |
-| M Jan 31 | Overview of R, Part II                     |
-| W Feb 2  | Principles of Data                         |
-| M Feb 7  | Databases and DMPs (Guest)                 |
-| W Feb 9  | Github and Markdown                        |
-| M Feb 14 | Off (Midway at Conference)                 |
-| W Feb 16 | Exploratory Data Analysis                  |
-| M Feb 21 | Basics of `ggplot`                         |
-| W Feb 23 | Models vs. Estimation                      |
-| M Feb 28 | Off (Mardi Gras)                           |
-| W Mar 2  | Off (Mardi Gras)                           |
-| M Mar 7  | Anatomy of a Linear Model                  |
-| W Mar 9  | General Linear Models                      |
-| M Mar 8  | GLMs, Part I                               |
-| W Mar 10 | GLMs, Part II                              |
-| M Mar 14 | Off (Spring Break)                         |
-| W Mar 16 | Off (Spring Break)                         |
-| M Mar 21 | Random Effects and Mixed Models, Part I    |
-| W Mar 23 | Random Effects and Mixed Models, Part II   |
-| M Mar 28 | Model Selection                            |
-| W Mar 30 | Off (Midway hosting Conference)            |
-| M Apr 4  | Model Selection (con't)                    |
-| W Apr 6  | Visualization, Part I                      |
-| M Apr 11 | Visualization, Part II                     |
-| W Apr 13 | Infographics                               |
-| M Apr 18 | Mapping and Spatial Data (Guest + Zoom?)   |
-| W Apr 20 | Team Science                               |
-| M Apr 25 | Reproducible Research                      |
-| W Apr 27 | Infographics (Open House?)                 |
-| M May 2  | Flex                                       |
-| W May 4  | Flex                                       |
+| Date     | Topic                                      | Space        |
+| :------- | :----------------------------------------- | ------------ |
+| W Jan 19 | Course Introduction                        | ECE 1070     |
+| M Jan 24 | Logic of Science                           | Auditorium   | 
+| W Jan 26 | Overview of R, Part I                      | Auditorium   | 
+| M Jan 31 | Overview of R, Part II                     | Auditorium   | 
+| W Feb 2  | Principles of Data                         | Auditorium   | 
+| M Feb 7  | Databases and DMPs (Guest)                 | Auditorium   | 
+| W Feb 9  | Github and Markdown                        | Auditorium   | 
+| M Feb 14 | Off (Midway at Conference)                 | Auditorium   | 
+| W Feb 16 | Exploratory Data Analysis                  | Auditorium   | 
+| M Feb 21 | Basics of `ggplot`                         | TBD          |
+| W Feb 23 | Models vs. Estimation                      | TBD          |
+| M Feb 28 | Off (Mardi Gras)                           |              |
+| W Mar 2  | Off (Mardi Gras)                           |              |
+| M Mar 7  | Anatomy of a Linear Model                  | Auditorium   | 
+| W Mar 9  | General Linear Models                      | Auditorium   | 
+| M Mar 8  | GLMs, Part I                               | Auditorium   | 
+| W Mar 10 | GLMs, Part II                              | Auditorium   | 
+| M Mar 14 | Off (Spring Break)                         |              |
+| W Mar 16 | Off (Spring Break)                         |              |
+| M Mar 21 | Random Effects and Mixed Models, Part I    | Auditorium   | 
+| W Mar 23 | Random Effects and Mixed Models, Part II   | Auditorium   | 
+| M Mar 28 | Model Selection                            | Auditorium   | 
+| W Mar 30 | Off (Midway hosting Conference)            |              |
+| M Apr 4  | Model Selection (con't)                    | Auditorium   | 
+| W Apr 6  | Visualization, Part I                      | Auditorium   | 
+| M Apr 11 | Visualization, Part II                     | TBD          | 
+| W Apr 13 | Infographics                               | TBD          | 
+| M Apr 18 | Mapping and Spatial Data (Guest + Zoom?)   | Auditorium   | 
+| W Apr 20 | Team Science                               | Auditorium   | 
+| M Apr 25 | Reproducible Research                      | Auditorium   | 
+| W Apr 27 | Infographics (Open House?)                 | Auditorium   | 
+| M May 2  | Flex                                       | Auditorium   | 
+| W May 4  | Flex                                       | Auditorium   | 
 
 
