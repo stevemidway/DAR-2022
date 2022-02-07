@@ -38,7 +38,7 @@ subsequent uses of `x` downstream in the document are also
 
 ### How do I use this wonderful thing called R Markdown?
 
-It’s pretty simple. In RStudio, go to File \> New File and select R
+It’s pretty simple. In RStudio, go to File &gt; New File and select R
 Markdown… This will open up a window to start an R Markdown template.
 Add a title to your document and change your name if you want. For the
 output format, select HTML or Word. (Note that PDF is also an option;
@@ -81,6 +81,6 @@ more exhaustive list.
 
 ### Your assignment
 
-Take your work from Assignment 1 and compile it in an R Markdown
-document that outputs to HTML. Please upload the html file to Box by
-Tuesday, February 8 at 5pm CT for credit.
+Take your work from Exercise 1 and compile it in an R Markdown document
+that outputs to HTML. Please upload the html file to Box by Tuesday,
+February 8 at 5pm CT for credit.
