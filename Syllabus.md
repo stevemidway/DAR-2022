@@ -8,7 +8,8 @@ Spring 2022
 Spring 2022
 OCS 7313
 Dr. Steve Midway, <smidway@lsu.edu>  
-Monday and Wednesday 9–10:20am, ECE 1070  
+Office: ECE 2257
+Monday and Wednesday 9–10:20am, Auditorium 
 Credit Hours: 3
 
 Zoom: <https://lsu.zoom.us/j/8249531601>
@@ -221,8 +222,8 @@ capacity.
 | W Jan 26 | Overview of R, Part I                      | Auditorium   | 
 | M Jan 31 | Overview of R, Part II                     | Auditorium   | 
 | W Feb 2  | Principles of Data                         | Auditorium   | 
-| M Feb 7  | Databases and DMPs (Guest)                 | Auditorium   | 
-| W Feb 9  | Github and Markdown                        | Auditorium   | 
+| M Feb 7  | Data Management (w/ Carol Morel)           | Auditorium   | 
+| W Feb 9  | Databases, Github, and Markdown            | Auditorium   | 
 | M Feb 14 | Off (Midway at Conference)                 | Auditorium   | 
 | W Feb 16 | Exploratory Data Analysis                  | Auditorium   | 
 | M Feb 21 | Basics of `ggplot`                         | TBD          |
