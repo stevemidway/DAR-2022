@@ -226,29 +226,28 @@ capacity.
 | W Feb 9  | Databases, Github, and Markdown            | Auditorium   | 
 | M Feb 14 | Off (Midway at Conference)                 | Auditorium   | 
 | W Feb 16 | Exploratory Data Analysis                  | Auditorium   | 
-| M Feb 21 | Basics of `ggplot`                         | TBD          |
-| W Feb 23 | Models vs. Estimation                      | TBD          |
+| M Feb 21 | Basics of `ggplot`                         | ECE 107      |
+| W Feb 23 | Models vs. Estimation                      | ECE 107      |
 | M Feb 28 | Off (Mardi Gras)                           |              |
 | W Mar 2  | Off (Mardi Gras)                           |              |
 | M Mar 7  | Anatomy of a Linear Model                  | Auditorium   | 
 | W Mar 9  | General Linear Models                      | Auditorium   | 
-| M Mar 8  | GLMs, Part I                               | Auditorium   | 
-| W Mar 10 | GLMs, Part II                              | Auditorium   | 
-| M Mar 14 | Off (Spring Break)                         |              |
-| W Mar 16 | Off (Spring Break)                         |              |
-| M Mar 21 | Random Effects and Mixed Models, Part I    | Auditorium   | 
-| W Mar 23 | Random Effects and Mixed Models, Part II   | Auditorium   | 
-| M Mar 28 | Model Selection                            | Auditorium   | 
-| W Mar 30 | Off (Midway hosting Conference)            |              |
-| M Apr 4  | Model Selection (con't)                    | Auditorium   | 
-| W Apr 6  | Visualization, Part I                      | Auditorium   | 
-| M Apr 11 | Visualization, Part II                     | TBD          | 
-| W Apr 13 | Infographics                               | TBD          | 
-| M Apr 18 | Mapping and Spatial Data (Guest + Zoom?)   | Auditorium   | 
-| W Apr 20 | Team Science                               | Auditorium   | 
-| M Apr 25 | Reproducible Research                      | Auditorium   | 
-| W Apr 27 | Infographics (Open House?)                 | Auditorium   | 
-| M May 2  | Flex                                       | Auditorium   | 
-| W May 4  | Flex                                       | Auditorium   | 
+| M Mar 14 | GLMs, Part I                               | Auditorium   | 
+| W Mar 16 | GLMs, Part II                              | Auditorium   | 
+| M Mar 21 | Off (Spring Break)                         |              |
+| W Mar 23 | Off (Spring Break)                         |              |
+| M Mar 28 | Random Effects and Mixed Models, Part I    | Auditorium   | 
+| W Mar 30 | Off (Midway hosting Conference)            | Auditorium   | 
+| M Apr 4  | Random Effects and Mixed Models, Part II   | Auditorium   | 
+| W Apr 6  | Model Selection                            | Auditorium   |
+| M Apr 11 | Model Selection (con't)                    | Auditorium   | 
+| W Apr 13 | Visualization, Part I                      | Auditorium   | 
+| M Apr 18 | Visualization, Part II                     | TBD          | 
+| W Apr 20 | Infographics                               | TBD          | 
+| M Apr 25 | Mapping and Spatial Data (Guest + Zoom?)   | Auditorium   | 
+| W Apr 27 | Team Science                               | Auditorium   | 
+| M May 2  | Reproducible Research                      | Auditorium   | 
+| W May 4  | Infographics (Open House?)                 | Auditorium   | 
+
 
 
