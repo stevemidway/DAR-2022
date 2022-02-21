@@ -226,8 +226,8 @@ capacity.
 | W Feb 9  | Databases, Github, and Markdown            | Auditorium   | 
 | M Feb 14 | Off (Midway at Conference)                 | Auditorium   | 
 | W Feb 16 | Exploratory Data Analysis                  | Auditorium   | 
-| M Feb 21 | Basics of `ggplot`                         | ECE 107      |
-| W Feb 23 | Models vs. Estimation                      | ECE 107      |
+| M Feb 21 | Basics of `ggplot`                         | ECE 1070     |
+| W Feb 23 | Models vs. Estimation                      | ECE 1070     |
 | M Feb 28 | Off (Mardi Gras)                           |              |
 | W Mar 2  | Off (Mardi Gras)                           |              |
 | M Mar 7  | Anatomy of a Linear Model                  | Auditorium   | 
