@@ -31,7 +31,7 @@ library(tidyverse)
 
 ``` r
 Species <- c(rep("A",3),rep("B",3),rep("C",3))
-setseed(16)
+set.seed(16)
 Year2017 <- rpois(n = 9, lambda = 1)
 Year2018 <- rpois(n = 9, lambda = 3)
 Year2019 <- rpois(n = 9, lambda = 5)
