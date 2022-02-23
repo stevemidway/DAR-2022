@@ -21,6 +21,7 @@ sim.diff[i] <- mean(sim1) - mean(sim2)
 
 sim.diff
 
+# Plot null differences
 hist(sim.diff, 
      las = 1,
      breaks = 20,
@@ -29,4 +30,5 @@ hist(sim.diff,
      xlab = "Differences",
      ylab = "Frequency",
      xlim = c(-8,8))
-abline(v = 8, col = "red", lwd = 3)
+# Add line for observed difference statistic
+abline(v = Diff, col = "red", lwd = 3)
