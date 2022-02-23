@@ -232,7 +232,7 @@ capacity.
 | W Mar 2  | Off (Mardi Gras)                           |              |
 | M Mar 7  | Anatomy of a Linear Model                  | Auditorium   | 
 | W Mar 9  | General Linear Models                      | Auditorium   | 
-| M Mar 14 | Off (Spring Break)                         | Auditorium   | 
+| M Mar 14 | Off (Spring Break)                         |              | 
 | W Mar 16 | Off (Spring Break)                         |              | 
 | M Mar 21 | GLMs, Part I                               | Auditorium   |
 | W Mar 23 | GLMs, Part II                              | Auditorium   |
