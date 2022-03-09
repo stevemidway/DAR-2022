@@ -237,7 +237,7 @@ capacity.
 | M Mar 21 | GLMs, Part I                               | Auditorium   |
 | W Mar 23 | GLMs, Part II                              | Auditorium   |
 | M Mar 28 | Random Effects and Mixed Models, Part I    | Auditorium   | 
-| W Mar 30 | Off (Midway hosting Conference)            | Auditorium   | 
+| W Mar 30 | Off (Midway hosting Conference)            |              | 
 | M Apr 4  | Random Effects and Mixed Models, Part II   | Auditorium   | 
 | W Apr 6  | Model Selection                            | Auditorium   |
 | M Apr 11 | Model Selection (con't)                    | Auditorium   | 
