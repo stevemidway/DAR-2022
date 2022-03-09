@@ -50,11 +50,11 @@ linear model.
 
 #### 1. When pooling across all lakes and all years (i.e., not taking into account individual lakes or years), does Secchi depth increase, decrease, or not change throughout the summer months (June–September)?
 
-To answer this question, consider A) a linear model where summer months
+To answer this question, consider (A) a linear model where summer months
 are a *continuous predictor*. Evaluate the residuals and model fit, and
 report on the slope, or the effect of time, to draw inference on whether
 water clarity significantly changes throughout the summer. Whether it
-does or does not change, next B) examine a model where month is a
+does or does not change, next (B) examine a model where month is a
 *factor*. Although a linear trend in water quality may be reasonable to
 assume over such a short time period, treating month as a factor will
 allow each month to have its own mean that can be comapred to other
@@ -67,13 +67,13 @@ reported significance.
 
 Now we want to move past the within-year trend and look at long-term
 trends across years represented in the data. For this, consider a linear
-model of secchi measurements with the predictor of year. Evaluate the
-model residuals and model fit, and whether any significance is reported.
-How is significance interpreted?
+model of secchi measurements with the *continuous* predictor of year.
+Evaluate the model residuals and model fit, and whether any significance
+is reported. How is significance interpreted?
 
 **Deliverable: Please complete Questions 1 and 2 by running and
 reporting the appropriate models and results. Ultimately, just a few
 models need to be run and reporting can be concise. However, you are
 welcome to include a figure or any other information you find useful or
-helps support your findings. Please email me a Markdown-rendered html by
-5pm Tuesday, March 9, 2021.**
+helps support your findings. Please upload to Box an RMarkdown-rendered
+file by 5pm Tuesday, March 22, 2022.**
