@@ -242,9 +242,9 @@ capacity.
 | W Apr 6  | Model Selection                            | Auditorium   |
 | M Apr 11 | Model Selection (con't)                    | Auditorium   | 
 | W Apr 13 | Visualization, Part I                      | Auditorium   | 
-| M Apr 18 | Visualization, Part II                     | TBD          | 
-| W Apr 20 | Infographics                               | TBD          | 
-| M Apr 25 | Mapping and Spatial Data (Guest + Zoom?)   | Auditorium   | 
+| M Apr 18 | Visualization, Part II                     | Zoom         | 
+| W Apr 20 | Mapping/Spatial Data (w/ Matt Robertson)   | Zoom         | 
+| M Apr 25 | Infographics                               | Auditorium   | 
 | W Apr 27 | Team Science                               | Auditorium   | 
 | M May 2  | Reproducible Research                      | Auditorium   | 
 | W May 4  | Infographics (Open House?)                 | Auditorium   | 
