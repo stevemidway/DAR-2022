@@ -19,7 +19,7 @@ your course grade.**
     results you do not need much introduction. Include just enough to
     familiarize the reader with the topic and importance of your
     forthcoming analysis.
--   20 points: Methods. explain how the data were collected (feel free
+-   20 points: Methods. Explain how the data were collected (feel free
     to reference a thesis or other document if it were to get lengthy
     and detailed). Focus on how the data are analyzed—what model(s) were
     considered, what models were eventually selected, how model fit was
