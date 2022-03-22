@@ -1,4 +1,4 @@
-Assignment 4: Linear Models, Generalized Linear Models, and Mixed Models
+Assignment 3: Linear Models, Generalized Linear Models, and Mixed Models
 ================
 DAR
 Spring 2022
