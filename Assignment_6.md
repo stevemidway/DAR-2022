@@ -79,7 +79,7 @@ specifics coming from the student.
 Please provide a hard copy of a double-spaced document that includes the
 content required and is formatted based on the journal of your choice.
 Please also note that the last day I will be available for help on this
-assignment is April XX, 2022.
+assignment is April 25, 2022.
 
 **A digital copy (Word or PDF) of this assignment is due on Box by 5pm
 on April 29, 2022.**
