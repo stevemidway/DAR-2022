@@ -24,6 +24,6 @@ Other useful references might include
 
 **To complete this Exercise, please create two figures showing code and
 appropriate output. Please upload an RMarkdown-rendered document to Box
-by 5pm Tuesday, March 8, 2021. We will go over these in lab on March
+by 5pm Tuesday, March 8, 2022. We will go over these in lab on March
 9th, so please be prepared to briefly discuss your figures and
 intentions for visual communication.**
