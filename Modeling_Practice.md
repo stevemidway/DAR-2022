@@ -10,7 +10,7 @@ library(Stat2Data)
 library(tidyverse)
 library(MASS)
 library(adklakedata)
-library(lme4)
+library(lme4) 
 ```
 
 # Model 1
