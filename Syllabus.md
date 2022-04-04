@@ -241,9 +241,9 @@ capacity.
 | M Apr 4  | Random Effects and Mixed Models, Part II   | Auditorium   | 
 | W Apr 6  | Model Selection                            | Auditorium   |
 | M Apr 11 | Model Selection (con't)                    | Zoom         | 
-| W Apr 13 | Visualization, Part I                      | Zoom         | 
-| M Apr 18 | Visualization, Part II                     | Auditorium   | 
-| W Apr 20 | Mapping/Spatial Data (w/ Matt Robertson)   | Auditorium   |
+| W Apr 13 | Mapping/Spatial Data (w/ Matt Robertson)   | Zoom         | 
+| M Apr 18 | Visualization, Part I                      | Auditorium   | 
+| W Apr 20 | Visualization, Part II                     | Auditorium   |
 | M Apr 25 | Infographics                               | Auditorium   | 
 | W Apr 27 | Team Science                               | Auditorium   | 
 | M May 2  | Reproducible Research                      | Auditorium   | 
