@@ -76,10 +76,10 @@ specifics coming from the student.
 
 ### Deliverable
 
-Please provide a hard copy of a double-spaced document that includes the
-content required and is formatted based on the journal of your choice.
-Please also note that the last day I will be available for help on this
-assignment is April 25, 2022.
-
-**A digital copy (Word or PDF) of this assignment is due on Box by 5pm
-on April 29, 2022.**
+I prefer a hard copy of a double-spaced document that includes the
+required content and is formatted based on the journal of your choice.
+If you are unable to make it to campus or otherwise cannot get me a hard
+copy, as a backup you may submit a digital version (Word or PDF) on Box.
+Regardless of submitting a hard copy or digital copy, the assignment is
+due by 5pm on April 29, 2022. Please also note that the last day I will
+be available for help on this assignment is April 25, 2022.
