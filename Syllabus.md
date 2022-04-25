@@ -240,14 +240,14 @@ capacity.
 | W Mar 30 | Off (Midway hosting Conference)            |              | 
 | M Apr 4  | Random Effects and Mixed Models, Part II   | Auditorium   | 
 | W Apr 6  | Model Selection                            | Auditorium   |
-| M Apr 11 | Model Selection (con't)                    | Zoom         | 
+| M Apr 11 | Infographics                               | Zoom         | 
 | W Apr 13 | Mapping/Spatial Data (w/ Matt Robertson)   | Zoom         | 
 | M Apr 18 | Visualization, Part I                      | Auditorium   | 
 | W Apr 20 | Visualization, Part II                     | Auditorium   |
-| M Apr 25 | Infographics                               | Auditorium   | 
-| W Apr 27 | Team Science                               | Auditorium   | 
-| M May 2  | Reproducible Research                      | Auditorium   | 
-| W May 4  | Infographics (Open House?)                 | Auditorium   | 
+| M Apr 25 | Big Data                                   | Auditorium   | 
+| W Apr 27 | ?                                          | Auditorium   | 
+| M May 2  | Team Science                               | Auditorium   | 
+| W May 4  | Infographics Presentations                 | Auditorium   | 
 
 
 
