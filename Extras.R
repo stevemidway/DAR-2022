@@ -60,7 +60,7 @@ for (t in 1:9){
     popsize <- apply(N,2,sum)
     
 plot(popsize, type = "l")
-matplot(N, type = "l")
+matplot(t(N), type = "l")
 
 
 # Model output
